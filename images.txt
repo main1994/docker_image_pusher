@@ -1,3 +1,5 @@
 nocodb/nocodb:latest
 jgraph/drawio
 hectorqin/reader
+lscr.io/linuxserver/homeassistant
+lscr.io/linuxserver/jellyfin
