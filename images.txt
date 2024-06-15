@@ -13,7 +13,7 @@ johngong/qbittorrent
 lscr.io/linuxserver/qbittorrent:latest
 library/mongo
 gogs/gogs
-library/postgres
+library/postgres:14
 library/redis
 lscr.io/linuxserver/mariadb
 jeessy/backup-x
