@@ -14,14 +14,6 @@ env:
   ALIYUN_REGISTRY_PASSWORD: "${{ secrets.ALIYUN_REGISTRY_PASSWORD }}"
 
 jobs:
-  clear-cache:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Clear cache
-      uses: actions/cache@v2
-      with:
-        command: 'clear'
-        
   build:
     name: Pull
     runs-on: ubuntu-latest
