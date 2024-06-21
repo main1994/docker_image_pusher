@@ -1,3 +1,4 @@
+ich777/chrome
 nocodb/nocodb:latest
 jgraph/drawio
 hectorqin/reader
@@ -54,4 +55,3 @@ nastool/nas-tools
 crazyq/pt_helper
 lscr.io/linuxserver/jellyfin:latest
 allanpk716/chinesesubfinder:latest
-ich777/firefox:latest
