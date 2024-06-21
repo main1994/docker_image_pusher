@@ -1,4 +1,4 @@
-m1k1o/neko:chromium
+m1k1o/neko:chromium:latest
 nocodb/nocodb:latest
 jgraph/drawio
 hectorqin/reader
