@@ -1,4 +1,4 @@
-oldiy/chrome-novnc
+jlesage/firefox
 nocodb/nocodb:latest
 jgraph/drawio
 hectorqin/reader
