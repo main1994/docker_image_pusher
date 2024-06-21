@@ -1,4 +1,4 @@
-ich777/chrome
+oldiy/chrome-novnc
 nocodb/nocodb:latest
 jgraph/drawio
 hectorqin/reader
