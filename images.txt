@@ -1,3 +1,4 @@
+containrrr/watchtower
 jlesage/firefox
 nocodb/nocodb:latest
 jgraph/drawio
