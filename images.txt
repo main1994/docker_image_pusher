@@ -1,4 +1,4 @@
-containrrr/watchtower
+onlyoffice/documentserver
 jlesage/firefox
 nocodb/nocodb:latest
 jgraph/drawio
