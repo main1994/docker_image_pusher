@@ -1,4 +1,3 @@
-moonrailgun/tianji
 onlyoffice/documentserver
 jlesage/firefox
 nocodb/nocodb:latest
