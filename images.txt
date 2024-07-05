@@ -1,3 +1,4 @@
+cloudreve/cloudreve
 onlyoffice/documentserver
 jlesage/firefox
 nocodb/nocodb:latest
