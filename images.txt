@@ -1,3 +1,4 @@
+frooodle/s-pdf
 cloudreve/cloudreve
 onlyoffice/documentserver
 jlesage/firefox
