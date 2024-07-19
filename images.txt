@@ -58,4 +58,5 @@ nastool/nas-tools
 crazyq/pt_helper
 lscr.io/linuxserver/jellyfin:latest
 allanpk716/chinesesubfinder:latest
-library/mysql
+library/mysql:5.7
+library/mysql:8.2.0
