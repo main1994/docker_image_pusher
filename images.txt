@@ -59,3 +59,4 @@ crazyq/pt_helper
 lscr.io/linuxserver/jellyfin:latest
 allanpk716/chinesesubfinder:latest
 mysql:8.0
+drone
