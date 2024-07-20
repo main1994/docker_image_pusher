@@ -62,3 +62,4 @@ mysql:8.0
 drone/drone
 drone/agent
 tailscale/tailscale
+dpanel/dpanel
