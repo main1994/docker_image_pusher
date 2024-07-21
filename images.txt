@@ -64,3 +64,4 @@ drone/agent
 tailscale/tailscale
 dpanel/dpanel
 gdy666/lucky
+zerotier/zerotier-synology
