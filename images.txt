@@ -1,3 +1,7 @@
+library/postgres:16
+tensorchord/pgvecto-rs:pg16-v0.2.1
+postgis/postgis:16-3.4
+
 frooodle/s-pdf
 cloudreve/cloudreve
 onlyoffice/documentserver
@@ -17,8 +21,6 @@ johngong/qbittorrent
 lscr.io/linuxserver/qbittorrent:latest
 library/mongo
 gogs/gogs
-library/postgres:16
-tensorchord/pgvecto-rs:pg16-v0.2.1
 library/redis
 lscr.io/linuxserver/mariadb
 jeessy/backup-x
