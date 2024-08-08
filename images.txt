@@ -72,4 +72,3 @@ ghcr.io/imagegenius/immich
 cnk3x/xunlei
 lllllllillllllillll/dweebui
 star7th/showdoc
-teakki/teakki
