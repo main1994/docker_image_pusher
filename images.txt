@@ -72,3 +72,4 @@ ghcr.io/imagegenius/immich
 cnk3x/xunlei
 star7th/showdoc
 gitea/gitea
+dslim/slim
