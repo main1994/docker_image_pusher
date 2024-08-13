@@ -73,3 +73,4 @@ cnk3x/xunlei
 star7th/showdoc
 gitea/gitea
 dslim/slim
+2233466866/lnmp:newest
