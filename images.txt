@@ -75,3 +75,4 @@ gitea/gitea
 dslim/slim
 2233466866/lnmp:newest
 xinsodev/drawdb
+moelin/1panel
