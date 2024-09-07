@@ -80,3 +80,4 @@ xhofe/alist
 hanhongyong/ms365-e5-renew-x:pubemail
 ghcr.io/gladtbam/ms365_e5_renewx:latest
 jumpserver/jms_all
+mccloud/subgen
