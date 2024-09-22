@@ -82,3 +82,4 @@ ghcr.io/gladtbam/ms365_e5_renewx:latest
 jumpserver/jms_all
 mccloud/subgen
 ghcr.io/themepark-dev/theme.park
+onerahmet/openai-whisper-asr-webservice:latest
