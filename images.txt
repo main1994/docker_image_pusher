@@ -59,7 +59,7 @@ iyuucn/iyuuplus
 nastool/nas-tools
 crazyq/pt_helper
 lscr.io/linuxserver/jellyfin:latest
-allanpk716/chinesesubfinder:latest
+superng6/subfinder
 mysql:8.0
 drone/drone
 drone/agent
