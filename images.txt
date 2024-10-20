@@ -81,4 +81,3 @@ jumpserver/jms_all
 mccloud/subgen
 ghcr.io/themepark-dev/theme.park
 onerahmet/openai-whisper-asr-webservice:latest
-chinesesubfinder/chinesesubfinder
