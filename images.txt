@@ -64,7 +64,6 @@ mysql:8.0
 drone/drone
 drone/agent
 tailscale/tailscale
-dpanel/dpanel
 gdy666/lucky
 zerotier/zerotier-synology
 dockerpull.com/lgs821/ifile
@@ -75,7 +74,6 @@ gitea/gitea
 dslim/slim
 2233466866/lnmp:newest
 xinsodev/drawdb
-moelin/1panel
 xhofe/alist
 hanhongyong/ms365-e5-renew-x:pubemail
 ghcr.io/gladtbam/ms365_e5_renewx:latest
