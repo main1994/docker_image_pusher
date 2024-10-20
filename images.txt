@@ -82,3 +82,4 @@ mccloud/subgen
 ghcr.io/themepark-dev/theme.park
 onerahmet/openai-whisper-asr-webservice:latest
 docker.io/library/golang:1.8.5
+allanpk716/chinesesubfinder
