@@ -6,6 +6,7 @@ postgis/postgis:16-3.4
 ghcr.io/imagegenius/immich
 ghcr.io/imagegenius/baseimage-immich:latest
 
+mysql:5.7.0-oraclelinux8
 frooodle/s-pdf
 cloudreve/cloudreve
 onlyoffice/documentserver
