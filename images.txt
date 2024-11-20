@@ -63,7 +63,7 @@ iyuucn/iyuuplus
 nastool/nas-tools
 crazyq/pt_helper
 lscr.io/linuxserver/jellyfin:latest
-mysql:8.0
+mysql:8.4.0-oraclelinux8
 drone/drone
 drone/agent
 tailscale/tailscale
