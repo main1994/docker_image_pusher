@@ -90,3 +90,4 @@ allanpk716/chinesesubfinder
 natfrp.com/launcher:latest
 ellermister/mybili
 lscr.io/linuxserver/homeassistant
+zhaoyangguang/rebatedog
