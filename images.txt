@@ -91,3 +91,5 @@ natfrp.com/launcher:latest
 ellermister/mybili
 lscr.io/linuxserver/homeassistant
 zhaoyangguang/rebatedog
+henrygd/beszel
+ghcr.io/koriiku/luxirty-search
