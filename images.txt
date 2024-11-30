@@ -3,7 +3,8 @@ library/postgres:16
 tensorchord/pgvecto-rs:pg16-v0.2.1
 postgis/postgis:16-3.4
 
-ghcr.io/imagegenius/immich
+ghcr.io/imagegenius/immich:latest
+ghcr.io/imagegenius/immich:noml
 ghcr.io/imagegenius/baseimage-immich:latest
 
 jlesage/freefilesync
