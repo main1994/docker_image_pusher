@@ -6,6 +6,11 @@ postgis/postgis:16-3.4
 ghcr.io/imagegenius/immich
 ghcr.io/imagegenius/baseimage-immich:latest
 
+jlesage/freefilesync
+resilio/sync
+lscr.io/linuxserver/resilio-sync:latest
+lscr.io/linuxserver/syncthing:latest
+
 321661/snap2html:latest
 mysql:5.7.25
 frooodle/s-pdf
@@ -50,8 +55,6 @@ lscr.io/linuxserver/fail2ban
 archivebox/archivebox
 filebrowser/filebrowser
 mpepping/cyberchef
-adolfintel/speedtest
-lscr.io/linuxserver/syncthing:latest
 vaultwarden/server
 portainer/portainer-ce
 lscr.io/linuxserver/homeassistant
