@@ -9,7 +9,6 @@ ghcr.io/imagegenius/baseimage-immich:latest
 jlesage/freefilesync
 lscr.io/linuxserver/resilio-sync:latest
 lscr.io/linuxserver/syncthing:latest
-goodsync
 
 321661/snap2html:latest
 mysql:5.7.25
