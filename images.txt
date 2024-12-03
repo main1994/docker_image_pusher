@@ -13,7 +13,8 @@ lscr.io/linuxserver/syncthing:latest
 
 # https://www.elastic.co/cn/downloads/kibana
 kibana:8.6.2
-elasticsearch:8.16.1
+# https://www.elastic.co/cn/downloads/elasticsearch
+elasticsearch-8.2.2
 
 netcccyun/dnsmgr
 321661/snap2html:latest
