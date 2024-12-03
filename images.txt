@@ -11,7 +11,7 @@ jlesage/freefilesync
 lscr.io/linuxserver/resilio-sync:latest
 lscr.io/linuxserver/syncthing:latest
 
-elasticsearch:8.2.0
+elasticsearch:8.16.1
 netcccyun/dnsmgr
 321661/snap2html:latest
 mysql:5.7.25
