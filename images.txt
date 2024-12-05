@@ -16,6 +16,7 @@ kibana:8.16.1
 # https://www.elastic.co/cn/downloads/elasticsearch
 elasticsearch:8.16.1
 
+luomubiji/ntqq:latest
 hdbjlizhe/autman
 netcccyun/dnsmgr
 321661/snap2html:latest
