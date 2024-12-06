@@ -16,15 +16,14 @@ kibana:8.16.1
 # https://www.elastic.co/cn/downloads/elasticsearch
 elasticsearch:8.16.1
 
-bestwu/docker-qq
 bestwu/wechat
 ubuntu:latest
 bestwu/qq
-
+luomubiji/ntqq:latest
 jackytj/sillyplus
 mlikiowa/napcat-docker:latest
-luomubiji/ntqq:latest
 hdbjlizhe/autman
+
 netcccyun/dnsmgr
 321661/snap2html:latest
 mysql:5.7.25
