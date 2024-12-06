@@ -18,6 +18,7 @@ kibana:8.16.1
 # https://www.elastic.co/cn/downloads/elasticsearch
 elasticsearch:8.16.1
 
+# 微信 QQ
 bestwu/qq:latest
 bestwu/qq:im
 bestwu/wechat:latest
@@ -25,6 +26,13 @@ luomubiji/ntqq:latest
 jackytj/sillyplus
 mlikiowa/napcat-docker:latest
 hdbjlizhe/autman
+
+# 代码
+drone/drone-runner-docker
+gogs/gogs
+drone/drone
+drone/agent
+gitea/gitea
 
 netcccyun/dnsmgr
 321661/snap2html:latest
@@ -47,7 +55,6 @@ johngong/qbittorrent
 lscr.io/linuxserver/qbittorrent:latest
 library/mongo:latest
 library/mongo:4.4.6
-gogs/gogs
 library/redis
 lscr.io/linuxserver/mariadb
 jeessy/backup-x
@@ -85,15 +92,12 @@ nastool/nas-tools
 crazyq/pt_helper
 lscr.io/linuxserver/jellyfin:latest
 mysql:8.4.0-oraclelinux8
-drone/drone
-drone/agent
 tailscale/tailscale
 gdy666/lucky
 zerotier/zerotier-synology
 lgs821/ifile
 cnk3x/xunlei
 star7th/showdoc
-gitea/gitea
 dslim/slim
 2233466866/lnmp:newest
 xinsodev/drawdb
