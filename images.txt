@@ -19,6 +19,8 @@ elasticsearch:8.16.1
 bestwu/docker-qq
 bestwu/wechat
 ubuntu:latest
+bestwu/qq
+
 jackytj/sillyplus
 mlikiowa/napcat-docker:latest
 luomubiji/ntqq:latest
