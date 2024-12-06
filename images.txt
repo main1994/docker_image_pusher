@@ -16,9 +16,7 @@ kibana:8.16.1
 # https://www.elastic.co/cn/downloads/elasticsearch
 elasticsearch:8.16.1
 
-bestwu/wechat
 ubuntu:latest
-bestwu/qq
 luomubiji/ntqq:latest
 jackytj/sillyplus
 mlikiowa/napcat-docker:latest
