@@ -26,6 +26,7 @@ luomubiji/ntqq:latest
 jackytj/sillyplus
 mlikiowa/napcat-docker:latest
 hdbjlizhe/autman
+chisbread/wechat-service
 
 # 代码
 drone/drone-runner-docker
@@ -117,4 +118,3 @@ zhaoyangguang/rebatedog
 henrygd/beszel
 bitaur/puff
 portainer/agent:2.21.4
-chisbread/wechat-service
