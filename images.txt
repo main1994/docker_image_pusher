@@ -35,6 +35,7 @@ drone/drone
 drone/agent
 gitea/gitea
 
+steamcmd/steamcmd:latest
 cleverest/toolbox
 netcccyun/dnsmgr
 321661/snap2html:latest
