@@ -19,10 +19,6 @@ kibana:8.16.1
 elasticsearch:8.16.1
 
 # 微信 QQ
-bestwu/qq:latest
-bestwu/qq:im
-bestwu/wechat:latest
-luomubiji/ntqq:latest
 jackytj/sillyplus
 mlikiowa/napcat-docker:latest
 hdbjlizhe/autman
