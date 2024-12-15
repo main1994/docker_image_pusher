@@ -19,7 +19,6 @@ kibana:8.16.1
 elasticsearch:8.16.1
 
 # 微信 QQ
-jackytj/sillyplus
 mlikiowa/napcat-docker:latest
 hdbjlizhe/autman
 chisbread/wechat-service
@@ -111,7 +110,6 @@ docker.io/library/golang:1.8.5
 allanpk716/chinesesubfinder
 natfrp.com/launcher:latest
 ellermister/mybili
-lscr.io/linuxserver/homeassistant
 zhaoyangguang/rebatedog
 henrygd/beszel
 bitaur/puff
