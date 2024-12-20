@@ -65,7 +65,6 @@ chigusa/bililive-go
 cieg/obs-docker
 jlesage/nginx-proxy-manager
 ghcr.io/hotio/cloudflareddns:latest
-dreamacro/clash
 koishijs/koishi
 suwmlee/ikaros
 80x86/typecho
