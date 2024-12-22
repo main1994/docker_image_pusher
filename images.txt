@@ -27,9 +27,9 @@ chisbread/wechat-service
 drone/drone-runner-docker
 gogs/gogs
 drone/drone
-drone/agent
 gitea/gitea
 
+hausen1012/squoosh:latest
 amtoaer/bili-sync-rs:latest
 ginuerzh/qwerty-learner:latest
 ddsderek/easyimage:latest
