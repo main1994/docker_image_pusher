@@ -29,6 +29,7 @@ gogs/gogs
 drone/drone
 gitea/gitea
 
+mintplexlabs/anythingllm:latest
 hausen1012/squoosh:latest
 amtoaer/bili-sync-rs:latest
 ginuerzh/qwerty-learner:latest
