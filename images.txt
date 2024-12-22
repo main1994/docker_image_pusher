@@ -30,6 +30,7 @@ drone/drone
 drone/agent
 gitea/gitea
 
+amtoaer/bili-sync-rs:latest
 ginuerzh/qwerty-learner:latest
 ddsderek/easyimage:latest
 cleverest/toolbox
