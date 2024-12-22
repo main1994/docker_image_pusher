@@ -30,6 +30,7 @@ drone/drone
 drone/agent
 gitea/gitea
 
+ddsderek/easyimage:latest
 cleverest/toolbox
 netcccyun/dnsmgr
 321661/snap2html:latest
