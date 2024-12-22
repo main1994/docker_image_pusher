@@ -29,6 +29,7 @@ gogs/gogs
 drone/drone
 gitea/gitea
 
+justsong/one-api:latest
 ollama/ollama:latest
 mintplexlabs/anythingllm:latest
 hausen1012/squoosh:latest
