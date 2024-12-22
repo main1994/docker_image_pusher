@@ -30,6 +30,7 @@ drone/drone
 drone/agent
 gitea/gitea
 
+ginuerzh/qwerty-learner:latest
 ddsderek/easyimage:latest
 cleverest/toolbox
 netcccyun/dnsmgr
