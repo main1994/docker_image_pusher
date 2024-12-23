@@ -76,7 +76,6 @@ suwmlee/ikaros
 wiznote/wizserver
 whyour/qinglong
 lscr.io/linuxserver/fail2ban
-archivebox/archivebox
 filebrowser/filebrowser
 mpepping/cyberchef
 vaultwarden/server
