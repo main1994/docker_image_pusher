@@ -29,6 +29,7 @@ gogs/gogs
 drone/drone
 gitea/gitea
 
+nriver/trilium-cn
 justsong/one-api:latest
 ollama/ollama:latest
 mintplexlabs/anythingllm:latest
