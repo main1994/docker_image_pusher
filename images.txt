@@ -49,8 +49,6 @@ nocodb/nocodb:latest
 jgraph/drawio
 hectorqin/reader
 lscr.io/linuxserver/jellyfin
-p3terx/ariang
-p3terx/aria2-pro
 lscr.io/linuxserver/transmission
 chisbread/transmission
 jacksky6/qb-web
