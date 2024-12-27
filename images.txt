@@ -29,6 +29,15 @@ gogs/gogs
 drone/drone
 gitea/gitea
 
+# 皮肤
+ghcr.io/themepark-dev/theme.park:sonarr
+ghcr.io/themepark-dev/theme.park:qbittorrent
+ghcr.io/themepark-dev/theme.park:plex
+ghcr.io/themepark-dev/theme.park:jellyfin
+ghcr.io/themepark-dev/theme.park:transmission
+ghcr.io/themepark-dev/theme.park:gitea
+ghcr.io/themepark-dev/theme.park:resilio-sync
+
 synctvorg/synctv
 nriver/trilium-cn
 justsong/one-api:latest
