@@ -55,7 +55,6 @@ hectorqin/reader
 lscr.io/linuxserver/jellyfin
 lscr.io/linuxserver/transmission
 chisbread/transmission
-jacksky6/qb-web
 superng6/qbittorrentee
 johngong/qbittorrent
 lscr.io/linuxserver/qbittorrent:latest
