@@ -25,7 +25,6 @@ chisbread/wechat-service
 
 # 代码
 drone/drone-runner-docker
-gogs/gogs
 drone/drone
 gitea/gitea
 
