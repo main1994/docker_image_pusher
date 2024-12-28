@@ -29,6 +29,9 @@ gogs/gogs
 drone/drone
 gitea/gitea
 
+ghcr.io/dendianugerah/reubah:latest
+germannewsmaker/nexterm:latest
+ghcr.io/chkzl/ddtv/server
 synctvorg/synctv
 nriver/trilium-cn
 justsong/one-api:latest
