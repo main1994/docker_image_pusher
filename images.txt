@@ -28,7 +28,8 @@ drone/drone-runner-docker
 drone/drone
 gitea/gitea
 
-helloz/transmission
+helloz/transmission:latest
+ddsderek/transmission:latest
 ghcr.io/dendianugerah/reubah:latest
 germannewsmaker/nexterm:latest
 ghcr.io/chkzl/ddtv/server
