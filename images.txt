@@ -28,8 +28,16 @@ drone/drone-runner-docker
 drone/drone
 gitea/gitea
 
+# 下载
+emmercm/qbittorrent:latest
+superng6/qbittorrentee
+johngong/qbittorrent
+lscr.io/linuxserver/qbittorrent:latest
+lscr.io/linuxserver/transmission
+chisbread/transmission
 helloz/transmission:latest
 ddsderek/transmission:latest
+
 ghcr.io/dendianugerah/reubah:latest
 germannewsmaker/nexterm:latest
 ghcr.io/chkzl/ddtv/server
@@ -54,11 +62,6 @@ nocodb/nocodb:latest
 jgraph/drawio
 hectorqin/reader
 lscr.io/linuxserver/jellyfin
-lscr.io/linuxserver/transmission
-chisbread/transmission
-superng6/qbittorrentee
-johngong/qbittorrent
-lscr.io/linuxserver/qbittorrent:latest
 library/mongo:latest
 library/mongo:4.4.6
 library/redis
@@ -99,7 +102,6 @@ mysql:8.4.0-oraclelinux8
 tailscale/tailscale
 gdy666/lucky
 zerotier/zerotier-synology
-
 lgs821/ifile
 cnk3x/xunlei
 star7th/showdoc
