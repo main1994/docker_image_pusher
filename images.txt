@@ -28,7 +28,6 @@ drone/drone-runner-docker
 drone/drone
 gitea/gitea
 
-mmercm/qbittorrent:latest
 ghcr.io/dendianugerah/reubah:latest
 germannewsmaker/nexterm:latest
 ghcr.io/chkzl/ddtv/server
