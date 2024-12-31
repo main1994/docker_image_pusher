@@ -38,6 +38,7 @@ chisbread/transmission
 helloz/transmission:latest
 ddsderek/transmission:latest
 
+cnk3x/xunlei:latest
 ghcr.io/dendianugerah/reubah:latest
 germannewsmaker/nexterm:latest
 ghcr.io/chkzl/ddtv/server
