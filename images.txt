@@ -19,7 +19,7 @@ kibana:8.16.1
 elasticsearch:8.16.1
 
 # 微信 QQ
-mlikiowa/napcat-docker:latest
+mlikiowa/napcat-docker
 hdbjlizhe/autman
 chisbread/wechat-service
 
@@ -38,7 +38,6 @@ chisbread/transmission
 helloz/transmission:latest
 ddsderek/transmission:latest
 
-mlikiowa/napcat-docker
 cnk3x/xunlei:latest
 ghcr.io/dendianugerah/reubah:latest
 germannewsmaker/nexterm:latest
