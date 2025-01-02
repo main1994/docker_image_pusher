@@ -38,6 +38,7 @@ chisbread/transmission
 helloz/transmission:latest
 ddsderek/transmission:latest
 
+mlikiowa/napcat-docker
 ghcr.io/mrs4s/go-cqhttp:master
 cnk3x/xunlei:latest
 ghcr.io/dendianugerah/reubah:latest
