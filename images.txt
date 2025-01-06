@@ -38,7 +38,6 @@ chisbread/transmission
 helloz/transmission:latest
 ddsderek/transmission:latest
 
-axboy/leanote
 docker.io/library/wordpress:latest
 dingdangdog/cashbook:latest
 icepage/aujc:latest
