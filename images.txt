@@ -38,7 +38,7 @@ chisbread/transmission
 helloz/transmission:latest
 ddsderek/transmission:latest
 
-joplin/server:latest
+blinkospace/blinko:latest
 dingdangdog/cashbook:latest
 icepage/aujc:latest
 cnk3x/xunlei:latest
