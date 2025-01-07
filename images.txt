@@ -38,6 +38,7 @@ chisbread/transmission
 helloz/transmission:latest
 ddsderek/transmission:latest
 
+dzhuang/tinymediamanager:latest-v5
 dingdangdog/cashbook:latest
 icepage/aujc:latest
 cnk3x/xunlei:latest
