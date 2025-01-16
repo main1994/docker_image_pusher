@@ -1,4 +1,4 @@
-debian:latest
+budtmo/docker-android:emulator_14.0
 
 library/postgres:14
 library/postgres:16
