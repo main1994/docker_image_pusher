@@ -98,7 +98,7 @@ vaultwarden/server
 portainer/portainer-ce
 lscr.io/linuxserver/homeassistant
 xhongc/music_tag_web
-lovechen/embyserver
+xinjiawei1/emby_unlockd:latest
 lscr.io/linuxserver/sonarr:latest
 lswl/vertex
 lscr.io/linuxserver/jackett:latest
