@@ -44,6 +44,7 @@ us-central1-docker.pkg.dev/keephq/keep/keep-api
 grafana/grafana:latest
 prom/prometheus:latest
 
+gotify/server:latest
 dzhuang/tinymediamanager:latest-v5
 dingdangdog/cashbook:latest
 icepage/aujc:latest
