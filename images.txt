@@ -45,6 +45,7 @@ us-central1-docker.pkg.dev/keephq/keep/keep-api
 grafana/grafana:latest
 prom/prometheus:latest
 
+lobehub/lobe-chat
 vinlic/deepseek-free-api:latest
 gitea/act_runner
 gotify/server:latest
