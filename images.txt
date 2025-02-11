@@ -38,7 +38,6 @@ chisbread/transmission
 helloz/transmission:latest
 ddsderek/transmission:latest
 
-caorushizi/mediago:latest
 soulter/astrbot:latest
 lobehub/lobe-chat
 vinlic/deepseek-free-api:latest
