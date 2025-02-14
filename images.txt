@@ -18,11 +18,6 @@ kibana:8.16.1
 # https://www.elastic.co/cn/downloads/elasticsearch
 elasticsearch:8.16.1
 
-# 微信 QQ
-mlikiowa/napcat-docker
-hdbjlizhe/autman
-chisbread/wechat-service
-
 # 代码
 drone/drone-runner-docker
 drone/drone
@@ -38,6 +33,7 @@ chisbread/transmission
 helloz/transmission:latest
 ddsderek/transmission:latest
 
+hdbjlizhe/autman
 xxxsen/yamdc:latest
 soulter/astrbot:latest
 lobehub/lobe-chat
