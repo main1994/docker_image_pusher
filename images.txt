@@ -33,6 +33,7 @@ chisbread/transmission
 helloz/transmission:latest
 ddsderek/transmission:latest
 
+jasminexzzz/blossom:latest
 hdbjlizhe/autman
 xxxsen/yamdc:latest
 soulter/astrbot:latest
