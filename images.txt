@@ -79,7 +79,6 @@ louislam/uptime-kuma
 luolongfei/freenom
 a76yyyy/qiandao
 bytelang/kplayer
-chigusa/bililive-go
 cieg/obs-docker
 jlesage/nginx-proxy-manager
 ghcr.io/hotio/cloudflareddns:latest
