@@ -33,6 +33,8 @@ chisbread/transmission
 helloz/transmission:latest
 ddsderek/transmission:latest
 
+streamrec/stream-rec:latest
+streamrec/stream-rec-front:latest
 jasminexzzz/blossom:latest
 hdbjlizhe/autman
 xxxsen/yamdc:latest
