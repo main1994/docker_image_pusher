@@ -44,7 +44,6 @@ vinlic/deepseek-free-api:latest
 gitea/act_runner
 gotify/server:latest
 dzhuang/tinymediamanager:latest-v5
-dingdangdog/cashbook:latest
 icepage/aujc:latest
 cnk3x/xunlei:latest
 ghcr.io/dendianugerah/reubah:latest
