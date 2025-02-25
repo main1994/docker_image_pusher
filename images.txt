@@ -63,7 +63,6 @@ netcccyun/dnsmgr
 321661/snap2html:latest
 mysql:5.7.25
 frooodle/s-pdf
-onlyoffice/documentserver
 lscr.io/linuxserver/msedge:latest
 nocodb/nocodb:latest
 jgraph/drawio
