@@ -76,7 +76,6 @@ jeessy/backup-x
 ossrs/srs-stack:5
 library/haproxy
 louislam/uptime-kuma
-luolongfei/freenom
 a76yyyy/qiandao
 bytelang/kplayer
 cieg/obs-docker
