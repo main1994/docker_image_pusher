@@ -33,7 +33,6 @@ chisbread/transmission
 helloz/transmission:latest
 ddsderek/transmission:latest
 
-ghcr.io/toeverything/affine-graphql:stable
 streamrec/stream-rec:latest
 streamrec/stream-rec-front:latest
 jasminexzzz/blossom:latest
