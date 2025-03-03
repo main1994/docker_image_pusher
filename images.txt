@@ -26,7 +26,6 @@ gitea/gitea
 # 下载
 emmercm/qbittorrent:latest
 superng6/qbittorrentee
-johngong/qbittorrent
 lscr.io/linuxserver/qbittorrent:latest
 lscr.io/linuxserver/transmission
 chisbread/transmission
