@@ -30,7 +30,6 @@ lscr.io/linuxserver/qbittorrent:latest
 lscr.io/linuxserver/transmission
 chisbread/transmission
 helloz/transmission:latest
-ddsderek/transmission:latest
 
 streamrec/stream-rec:latest
 streamrec/stream-rec-front:latest
