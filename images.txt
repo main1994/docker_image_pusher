@@ -52,7 +52,6 @@ justsong/one-api:latest
 ollama/ollama:latest
 mintplexlabs/anythingllm:latest
 hausen1012/squoosh:latest
-amtoaer/bili-sync-rs:latest
 ginuerzh/qwerty-learner:latest
 ddsderek/easyimage:latest
 cleverest/toolbox
