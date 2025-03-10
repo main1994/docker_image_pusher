@@ -114,7 +114,6 @@ docker.io/library/golang:1.8.5
 allanpk716/chinesesubfinder
 natfrp.com/launcher:latest
 ellermister/mybili
-zhaoyangguang/rebatedog
 henrygd/beszel
 bitaur/puff
 portainer/agent:2.21.4
