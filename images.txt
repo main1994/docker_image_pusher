@@ -24,7 +24,6 @@ drone/drone
 gitea/gitea
 
 # 下载
-emmercm/qbittorrent:latest
 superng6/qbittorrentee
 lscr.io/linuxserver/qbittorrent:latest
 lscr.io/linuxserver/transmission
