@@ -30,6 +30,7 @@ lscr.io/linuxserver/transmission
 chisbread/transmission
 helloz/transmission:latest
 nevinee/qbittorrent:latest
+nevinee/qbittorrent:iyuu
 
 streamrec/stream-rec:latest
 streamrec/stream-rec-front:latest
