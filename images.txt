@@ -96,7 +96,6 @@ lswl/vertex
 mzz2017/v2raya
 iyuucn/iyuuplus
 nastool/nas-tools
-crazyq/pt_helper
 lscr.io/linuxserver/jellyfin:latest
 mysql:8.4.0-oraclelinux8
 tailscale/tailscale
