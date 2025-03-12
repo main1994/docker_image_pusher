@@ -32,6 +32,7 @@ helloz/transmission:latest
 nevinee/qbittorrent:latest
 nevinee/qbittorrent:iyuu
 
+docker.io/madwind/flexget
 streamrec/stream-rec:latest
 streamrec/stream-rec-front:latest
 jasminexzzz/blossom:latest
