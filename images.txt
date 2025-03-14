@@ -93,7 +93,6 @@ lscr.io/linuxserver/homeassistant
 xhongc/music_tag_web
 xinjiawei1/emby_unlockd:latest
 # lovechen/embyserver
-lswl/vertex
 mzz2017/v2raya
 iyuucn/iyuuplus
 # nastool/nas-tools
