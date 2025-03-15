@@ -31,6 +31,7 @@ chisbread/transmission
 helloz/transmission:latest
 nevinee/qbittorrent:latest
 nevinee/qbittorrent:iyuu
+psyb0t/safe-transmission:latest
 ghcr.io/pyunramura/transmission-dark
 
 mayswind/ezbookkeeping
