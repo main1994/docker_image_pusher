@@ -33,6 +33,7 @@ nevinee/qbittorrent:latest
 nevinee/qbittorrent:iyuu
 psyb0t/safe-transmission:latest
 ghcr.io/pyunramura/transmission-dark
+rathorian/transmission:latest
 
 mayswind/ezbookkeeping
 docker.io/madwind/flexget
