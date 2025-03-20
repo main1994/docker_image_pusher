@@ -1,5 +1,3 @@
-gitea/runner-images:ubuntu-latest
-
 library/postgres:14
 library/postgres:16
 tensorchord/pgvecto-rs:pg16-v0.2.1
