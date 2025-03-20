@@ -34,11 +34,11 @@ nevinee/qbittorrent:iyuu
 ghcr.io/pyunramura/transmission-dark
 rathorian/transmission:latest
 
+neosmemo/memos:latest
 mayswind/ezbookkeeping
 docker.io/madwind/flexget
 streamrec/stream-rec:latest
 streamrec/stream-rec-front:latest
-jasminexzzz/blossom:latest
 hdbjlizhe/autman
 xxxsen/yamdc:latest
 soulter/astrbot:latest
