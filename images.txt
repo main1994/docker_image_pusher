@@ -35,6 +35,7 @@ ghcr.io/pyunramura/transmission-dark
 rathorian/transmission:latest
 
 neosmemo/memos:latest
+rehiy/dailyhot:latest
 mayswind/ezbookkeeping
 docker.io/madwind/flexget
 streamrec/stream-rec:latest
