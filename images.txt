@@ -32,6 +32,7 @@ nevinee/qbittorrent:iyuu
 ghcr.io/pyunramura/transmission-dark
 rathorian/transmission:latest
 
+linyuan0213/nas-tools
 ghcr.io/ourongxing/newsnow:latest
 neosmemo/memos:latest
 rehiy/dailyhot:latest
