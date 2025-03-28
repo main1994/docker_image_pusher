@@ -35,7 +35,6 @@ rathorian/transmission:latest
 ghcr.io/ourongxing/newsnow:latest
 neosmemo/memos:latest
 rehiy/dailyhot:latest
-docker.io/madwind/flexget
 streamrec/stream-rec:latest
 streamrec/stream-rec-front:latest
 hdbjlizhe/autman
