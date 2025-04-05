@@ -74,7 +74,6 @@ library/mongo:4.4.6
 library/redis
 lscr.io/linuxserver/mariadb
 jeessy/backup-x
-ossrs/srs-stack:5
 library/haproxy
 louislam/uptime-kuma
 a76yyyy/qiandao
