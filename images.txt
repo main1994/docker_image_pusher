@@ -93,7 +93,6 @@ vaultwarden/server
 portainer/portainer-ce
 lscr.io/linuxserver/homeassistant
 xhongc/music_tag_web
-xinjiawei1/emby_unlockd:latest
 # lovechen/embyserver
 mzz2017/v2raya
 iyuucn/iyuuplus
