@@ -1,5 +1,4 @@
 # 代理
-clash/clash-proxy
 dreamacro/clash
 haishanh/yacd
 
