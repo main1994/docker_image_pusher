@@ -1,4 +1,5 @@
 # 代理
+dreamacro/clash-premium:latest
 dreamacro/clash
 haishanh/yacd
 
