@@ -1,3 +1,8 @@
+# 代理
+clash/clash-proxy
+dreamacro/clash
+haishanh/yacd
+
 library/postgres:14
 library/postgres:16
 tensorchord/pgvecto-rs:pg16-v0.2.1
