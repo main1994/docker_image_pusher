@@ -39,7 +39,6 @@ nevinee/qbittorrent:iyuu
 ghcr.io/pyunramura/transmission-dark
 rathorian/transmission:latest
 
-easychen/cookiecloud
 nvllsvm/emby-unlocked
 linyuan0213/nas-tools
 linyuan0213/nas-tools-ocr
