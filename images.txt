@@ -1,3 +1,5 @@
+ghcr.io/themepark-dev/theme.park:qbittorrent
+
 # 代理
 dreamacro/clash-premium:latest
 dreamacro/clash
