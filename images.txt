@@ -29,6 +29,7 @@ drone/drone
 gitea/gitea
 
 # 下载
+madwind/flexget
 superng6/qbittorrentee
 lscr.io/linuxserver/qbittorrent:latest
 lscr.io/linuxserver/transmission
