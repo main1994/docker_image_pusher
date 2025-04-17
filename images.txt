@@ -77,7 +77,6 @@ frooodle/s-pdf
 lscr.io/linuxserver/msedge:latest
 nocodb/nocodb:latest
 jgraph/drawio
-hectorqin/reader
 lscr.io/linuxserver/jellyfin
 library/mongo:latest
 library/mongo:4.4.6
