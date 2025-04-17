@@ -44,7 +44,6 @@ rathorian/transmission:latest
 linyuan0213/nas-tools
 linyuan0213/nas-tools-ocr
 
-ghcr.io/koodo-reader/koodo-reader:master
 nvllsvm/emby-unlocked
 ghcr.io/ourongxing/newsnow:latest
 neosmemo/memos:latest
