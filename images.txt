@@ -131,4 +131,3 @@ portainer/agent:2.21.4
 nextcloud:latest
 jackytj/sillyplus
 blinkospace/blinko:latest
-todoitbo/simple-accounting:2.0
