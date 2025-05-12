@@ -44,7 +44,7 @@ rathorian/transmission:latest
 linyuan0213/nas-tools
 linyuan0213/nas-tools-ocr
 
-todoitbo/simple-accounting
+todoitbo/simple-accounting:1.0
 redislabs/redisearch:latest
 nvllsvm/emby-unlocked
 ghcr.io/ourongxing/newsnow:latest
@@ -131,3 +131,4 @@ portainer/agent:2.21.4
 nextcloud:latest
 jackytj/sillyplus
 blinkospace/blinko:latest
+todoitbo/simple-accounting:2.0
