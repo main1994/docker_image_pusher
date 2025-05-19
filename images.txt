@@ -105,7 +105,7 @@ vaultwarden/server
 portainer/portainer-ce
 lscr.io/linuxserver/homeassistant
 xhongc/music_tag_web
-lovechen/embyserver
+# lovechen/embyserver
 mzz2017/v2raya
 iyuucn/iyuuplus
 # nastool/nas-tools
