@@ -45,6 +45,7 @@ linyuan0213/nas-tools
 linyuan0213/nas-tools-ocr
 
 emby/embyserver
+zishuo/embyserver
 todoitbo/simple-accounting:1.0
 redislabs/redisearch:latest
 nvllsvm/emby-unlocked
