@@ -46,7 +46,7 @@ linyuan0213/nas-tools-ocr
 
 # emby
 # lovechen/embyserver
-m.daocloud.io/docker.io/lovechen/embyserver:latest
+# m.daocloud.io/docker.io/lovechen/embyserver:latest
 emby/embyserver
 w12725/emby:4.8.11.0
 linuxserver/emby
