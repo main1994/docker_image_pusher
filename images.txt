@@ -51,6 +51,7 @@ emby/embyserver
 w12725/emby:4.8.11.0
 linuxserver/emby
 nvllsvm/emby-unlocked
+amilys/embyserver
 
 todoitbo/simple-accounting:1.0
 redislabs/redisearch:latest
