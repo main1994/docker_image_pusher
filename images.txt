@@ -44,12 +44,16 @@ rathorian/transmission:latest
 linyuan0213/nas-tools
 linyuan0213/nas-tools-ocr
 
+# emby
+# lovechen/embyserver
+m.daocloud.io/docker.io/lovechen/embyserver:latest
 emby/embyserver
 w12725/emby:4.8.11.0
 linuxserver/emby
+nvllsvm/emby-unlocked
+
 todoitbo/simple-accounting:1.0
 redislabs/redisearch:latest
-nvllsvm/emby-unlocked
 ghcr.io/ourongxing/newsnow:latest
 neosmemo/memos:latest
 rehiy/dailyhot:latest
@@ -107,7 +111,6 @@ vaultwarden/server
 portainer/portainer-ce
 lscr.io/linuxserver/homeassistant
 xhongc/music_tag_web
-# lovechen/embyserver
 mzz2017/v2raya
 iyuucn/iyuuplus
 # nastool/nas-tools
