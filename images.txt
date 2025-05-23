@@ -71,7 +71,6 @@ dzhuang/tinymediamanager:latest-v5
 icepage/aujc:latest
 ghcr.io/dendianugerah/reubah:latest
 ghcr.io/chkzl/ddtv/server
-synctvorg/synctv
 nriver/trilium-cn
 justsong/one-api:latest
 ollama/ollama:latest
