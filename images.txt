@@ -1,4 +1,4 @@
-lscr.io/linuxserver/msedge:latest
+lscr.io/linuxserver/chromium:latest
 
 # 代理
 dreamacro/clash-premium:latest
