@@ -1,4 +1,4 @@
-lscr.io/linuxserver/chromium:latest
+jlesage/firefox
 
 # 代理
 dreamacro/clash-premium:latest
