@@ -1,9 +1,9 @@
 jlesage/firefox
 
 # 代理
-dreamacro/clash-premium:latest
-dreamacro/clash
 haishanh/yacd
+metacubex/mihomo:Alpha
+ghcr.io/metacubex/metacubexd
 
 library/postgres:14
 library/postgres:16
