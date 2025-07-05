@@ -70,6 +70,7 @@ gitea/act_runner
 gotify/server:latest
 dzhuang/tinymediamanager:latest-v5
 icepage/aujc:latest
+icepage/scw:latest
 ghcr.io/dendianugerah/reubah:latest
 ghcr.io/chkzl/ddtv/server
 nriver/trilium-cn
