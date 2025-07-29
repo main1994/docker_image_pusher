@@ -53,7 +53,7 @@ linuxserver/emby
 nvllsvm/emby-unlocked
 amilys/embyserver
 
-jeson/homebox
+dfface/homebox
 ghcr.io/jokob-sk/netalertx:latest
 hausen1012/webhook
 shaxiu/xianyuautoagent:latest
