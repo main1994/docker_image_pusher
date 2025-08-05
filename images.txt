@@ -54,7 +54,6 @@ nvllsvm/emby-unlocked
 amilys/embyserver
 
 dfface/homebox
-ghcr.io/jokob-sk/netalertx:latest
 hausen1012/webhook
 shaxiu/xianyuautoagent:latest
 todoitbo/simple-accounting:1.0
