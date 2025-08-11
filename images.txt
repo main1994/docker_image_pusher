@@ -1,7 +1,9 @@
 jlesage/firefox
 
 # bilinote
-nginx:1.25-alpine
+jefferyhjw/bilinote-frontend:latest
+jefferyhjw/bilinote-backend:latest
+jefferyhjw/bilinote-nginx:latest
 
 # 代理
 haishanh/yacd
