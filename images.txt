@@ -1,5 +1,8 @@
 jlesage/firefox
 
+# bilinote
+nginx:1.25-alpine
+
 # 代理
 haishanh/yacd
 metacubex/mihomo:Alpha
