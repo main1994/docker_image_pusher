@@ -1,5 +1,4 @@
 jlesage/firefox
-budtmo/docker-android:emulator_14.0
 
 # bilinote
 jefferyhjw/bilinote-frontend:latest
