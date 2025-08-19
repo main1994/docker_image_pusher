@@ -58,7 +58,11 @@ linuxserver/emby
 nvllsvm/emby-unlocked
 amilys/embyserver
 
+# docker
 ghcr.io/coracoo/dockports:latest
+tecnativa/docker-socket-proxy
+portainer/portainer-ce
+
 dfface/homebox
 hausen1012/webhook
 shaxiu/xianyuautoagent:latest
@@ -118,7 +122,6 @@ lscr.io/linuxserver/fail2ban
 filebrowser/filebrowser
 mpepping/cyberchef
 vaultwarden/server
-portainer/portainer-ce
 lscr.io/linuxserver/homeassistant
 xhongc/music_tag_web
 mzz2017/v2raya
