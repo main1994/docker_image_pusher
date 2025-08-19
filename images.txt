@@ -61,6 +61,7 @@ amilys/embyserver
 # docker
 ghcr.io/coracoo/dockports:latest
 tecnativa/docker-socket-proxy
+hollowpnt/docker-port-viewer:latest
 portainer/portainer-ce
 
 dfface/homebox
