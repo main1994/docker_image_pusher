@@ -63,6 +63,7 @@ ghcr.io/ofkm/arcane:latest
 ghcr.io/coracoo/dockports:latest
 portainer/portainer-ce
 
+shuiche/mind-map
 dfface/homebox
 hausen1012/webhook
 shaxiu/xianyuautoagent:latest
