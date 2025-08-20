@@ -59,6 +59,7 @@ nvllsvm/emby-unlocked
 amilys/embyserver
 
 # docker
+ghcr.io/ofkm/arcane:latest
 ghcr.io/coracoo/dockports:latest
 portainer/portainer-ce
 
