@@ -64,6 +64,7 @@ ghcr.io/coracoo/dockports:latest
 portainer/portainer-ce
 
 shuiche/mind-map
+ wisemapping/wisemapping:latest
 dfface/homebox
 hausen1012/webhook
 shaxiu/xianyuautoagent:latest
