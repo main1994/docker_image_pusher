@@ -63,6 +63,8 @@ ghcr.io/ofkm/arcane:latest
 ghcr.io/coracoo/dockports:latest
 portainer/portainer-ce
 
+gristlabs/grist
+onlyoffice/documentserver-de
 shuiche/mind-map
  wisemapping/wisemapping:latest
 dfface/homebox
