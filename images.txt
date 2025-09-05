@@ -63,10 +63,11 @@ ghcr.io/ofkm/arcane:latest
 ghcr.io/coracoo/dockports:latest
 portainer/portainer-ce
 
+hectorqin/reader
 gristlabs/grist
 onlyoffice/documentserver-de
 shuiche/mind-map
- wisemapping/wisemapping:latest
+wisemapping/wisemapping:latest
 dfface/homebox
 hausen1012/webhook
 shaxiu/xianyuautoagent:latest
