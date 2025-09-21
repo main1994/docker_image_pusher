@@ -63,7 +63,6 @@ ghcr.io/ofkm/arcane:latest
 ghcr.io/coracoo/dockports:latest
 portainer/portainer-ce
 
-binwiederhier/ntfy
 joplin/server:latest
 zhixinfang/nas-music
 chaoszhu/easynode
