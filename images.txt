@@ -9,6 +9,7 @@ jefferyhjw/bilinote-nginx:latest
 haishanh/yacd
 metacubex/mihomo:Alpha
 ghcr.io/metacubex/metacubexd
+haishanh/yacd
 
 library/postgres:14
 library/postgres:16
