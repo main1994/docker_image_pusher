@@ -98,7 +98,6 @@ ghcr.io/chkzl/ddtv/server
 nriver/trilium-cn
 justsong/one-api:latest
 ollama/ollama:latest
-mintplexlabs/anythingllm:latest
 hausen1012/squoosh:latest
 ginuerzh/qwerty-learner:latest
 ddsderek/easyimage:latest
