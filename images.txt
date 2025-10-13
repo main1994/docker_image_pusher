@@ -114,7 +114,6 @@ bytelang/kplayer
 cieg/obs-docker
 jlesage/nginx-proxy-manager
 ghcr.io/hotio/cloudflareddns:latest
-koishijs/koishi
 suwmlee/ikaros
 80x86/typecho
 wiznote/wizserver
