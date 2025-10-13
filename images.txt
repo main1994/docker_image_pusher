@@ -92,7 +92,6 @@ nriver/trilium-cn
 justsong/one-api:latest
 hausen1012/squoosh:latest
 ginuerzh/qwerty-learner:latest
-ddsderek/easyimage:latest
 cleverest/toolbox
 netcccyun/dnsmgr
 321661/snap2html:latest
