@@ -118,7 +118,6 @@ wiznote/wizserver
 whyour/qinglong
 lscr.io/linuxserver/fail2ban
 filebrowser/filebrowser
-mpepping/cyberchef
 vaultwarden/server
 lscr.io/linuxserver/homeassistant
 xhongc/music_tag_web
