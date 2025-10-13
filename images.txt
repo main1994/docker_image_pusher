@@ -69,8 +69,6 @@ chenyme/chenyme-aavt
 hectorqin/reader
 gristlabs/grist
 onlyoffice/documentserver-de
-shuiche/mind-map
-wisemapping/wisemapping:latest
 dfface/homebox
 hausen1012/webhook
 shaxiu/xianyuautoagent:latest
