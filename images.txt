@@ -20,7 +20,6 @@ ghcr.io/imagegenius/immich:latest
 ghcr.io/imagegenius/immich:noml
 ghcr.io/imagegenius/baseimage-immich:latest
 
-lscr.io/linuxserver/resilio-sync:latest
 lscr.io/linuxserver/syncthing:latest
 
 # https://www.elastic.co/cn/downloads/kibana
