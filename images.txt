@@ -142,5 +142,4 @@ henrygd/beszel
 bitaur/puff
 portainer/agent:2.21.4
 nextcloud:latest
-blinkospace/blinko:latest
 
