@@ -128,7 +128,6 @@ mysql:8.4.0-oraclelinux8
 tailscale/tailscale
 dslim/slim
 2233466866/lnmp:newest
-xinsodev/drawdb
 hanhongyong/ms365-e5-renew-x:pubemail
 ghcr.io/gladtbam/ms365_e5_renewx:latest
 jumpserver/jms_all
