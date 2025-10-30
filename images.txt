@@ -62,6 +62,10 @@ ghcr.io/ofkm/arcane:latest
 ghcr.io/coracoo/dockports:latest
 portainer/portainer-ce
 
+renmu1234/bililive-tools-frontend
+renmu1234/bililive-tools-backend
+bililive/recorder:latest
+
 joplin/server:latest
 chaoszhu/easynode
 chenyme/chenyme-aavt
