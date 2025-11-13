@@ -66,6 +66,7 @@ renmu1234/bililive-tools-frontend
 renmu1234/bililive-tools-backend
 bililive/recorder:latest
 
+dzhuang/tinymediamanager:latest-v4
 joplin/server:latest
 chaoszhu/easynode
 chenyme/chenyme-aavt
