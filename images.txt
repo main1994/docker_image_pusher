@@ -8,7 +8,7 @@ jefferyhjw/bilinote-nginx:latest
 # 代理
 haishanh/yacd
 metacubex/mihomo:Alpha
-ghcr.io/metacubex/metacubexd
+# ghcr.io/metacubex/metacubexd
 haishanh/yacd
 
 library/postgres:14
@@ -66,7 +66,6 @@ renmu1234/bililive-tools-frontend
 renmu1234/bililive-tools-backend
 bililive/recorder:latest
 
-tinymediamanager/tinymediamanager
 dzhuang/tinymediamanager:latest-v4
 dzhuang/tinymediamanager:latest-v5
 funnyfly/tinymediamanager:latest-v5
