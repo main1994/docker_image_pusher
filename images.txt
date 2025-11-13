@@ -66,7 +66,10 @@ renmu1234/bililive-tools-frontend
 renmu1234/bililive-tools-backend
 bililive/recorder:latest
 
+tinymediamanager/tinymediamanager
 dzhuang/tinymediamanager:latest-v4
+dzhuang/tinymediamanager:latest-v5
+
 joplin/server:latest
 chaoszhu/easynode
 chenyme/chenyme-aavt
@@ -88,7 +91,6 @@ lobehub/lobe-chat
 vinlic/deepseek-free-api:latest
 gitea/act_runner
 gotify/server:latest
-dzhuang/tinymediamanager:latest-v5
 icepage/aujc:latest
 icepage/scw:latest
 ghcr.io/chkzl/ddtv/server
