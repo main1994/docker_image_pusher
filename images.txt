@@ -69,7 +69,7 @@ bililive/recorder:latest
 tinymediamanager/tinymediamanager
 dzhuang/tinymediamanager:latest-v4
 dzhuang/tinymediamanager:latest-v5
-# funnyfly/tinymediamanager:latest-v5
+funnyfly/tinymediamanager:latest-v5
 joplin/server:latest
 chaoszhu/easynode
 chenyme/chenyme-aavt
