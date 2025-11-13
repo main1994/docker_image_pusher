@@ -8,7 +8,7 @@ jefferyhjw/bilinote-nginx:latest
 # 代理
 haishanh/yacd
 metacubex/mihomo:Alpha
-ghcr.io/metacubex/metacubexd:latest
+# ghcr.io/metacubex/metacubexd:v1.200.0
 haishanh/yacd
 
 library/postgres:14
