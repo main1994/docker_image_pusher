@@ -66,7 +66,6 @@ renmu1234/bililive-tools-frontend
 renmu1234/bililive-tools-backend
 bililive/recorder:latest
 
-jellyfin/jellyfin
 dzhuang/tinymediamanager:latest-v4
 dzhuang/tinymediamanager:latest-v5
 funnyfly/tinymediamanager:latest-v5
@@ -130,7 +129,6 @@ xhongc/music_tag_web
 mzz2017/v2raya
 iyuucn/iyuuplus
 # nastool/nas-tools
-lscr.io/linuxserver/jellyfin:latest
 mysql:8.4.0-oraclelinux8
 tailscale/tailscale
 dslim/slim
