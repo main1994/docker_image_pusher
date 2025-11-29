@@ -53,7 +53,6 @@ linyuan0213/nas-tools-ocr
 # docker.io/lovechen/embyserver:latest
 w12725/emby:4.8.11.0
 nvllsvm/emby-unlocked
-smithao/emby
 # lovechen
 maxmars7/embyserver
 
