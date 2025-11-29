@@ -51,11 +51,9 @@ linyuan0213/nas-tools-ocr
 # emby
 # lovechen/embyserver
 # docker.io/lovechen/embyserver:latest
-emby/embyserver
 w12725/emby:4.8.11.0
-linuxserver/emby
 nvllsvm/emby-unlocked
-amilys/embyserver
+smithao/emby
 
 # docker
 ghcr.io/ofkm/arcane:latest
