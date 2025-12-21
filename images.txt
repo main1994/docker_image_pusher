@@ -69,6 +69,7 @@ renmu1234/bililive-tools-frontend
 renmu1234/bililive-tools-backend
 bililive/recorder:latest
 
+ghcr.io/varbhat/exatorrent:latest
 dzhuang/tinymediamanager:latest-v4
 dzhuang/tinymediamanager:latest-v5
 funnyfly/tinymediamanager:latest-v5
