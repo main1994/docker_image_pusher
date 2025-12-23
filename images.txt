@@ -118,7 +118,6 @@ library/haproxy
 louislam/uptime-kuma
 a76yyyy/qiandao
 bytelang/kplayer
-cieg/obs-docker
 jlesage/nginx-proxy-manager
 ghcr.io/hotio/cloudflareddns:latest
 suwmlee/ikaros
