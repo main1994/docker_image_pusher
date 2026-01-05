@@ -85,7 +85,6 @@ hausen1012/webhook
 shaxiu/xianyuautoagent:latest
 todoitbo/simple-accounting:1.0
 redislabs/redisearch:latest
-neosmemo/memos:latest
 streamrec/stream-rec:latest
 streamrec/stream-rec-front:latest
 hdbjlizhe/autman
