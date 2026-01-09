@@ -69,8 +69,6 @@ renmu1234/bililive-tools-frontend
 renmu1234/bililive-tools-backend
 bililive/recorder:latest
 
-huangypeng/password-xl-web
-huangypeng/password-xl-service
 leantime/leantime:latest
 anoniemerd/prunemate:latest
 dzhuang/tinymediamanager:latest-v4
